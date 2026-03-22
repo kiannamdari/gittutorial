@@ -469,6 +469,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Eslami Nezhad](https://github.com/MohammadEslamiNezhad)
 - [Mohammad🦉](https://github.com/mnakhjiri)
 - [Kian Babai 🙂](https://github.com/kianbabai)
+- [kian namdari](https://github.com/kiannamdari)
 - [Mohammad Sadra Boromand :kissing_heart::heart_eyes::one::zero::zero:](https://github.com/SadraBoromand)
 - [AmirSalar :computer: ](https://github.com/AmirSalarYaghoubian)
 - [amirprgm](https://github.com/amirprgm)
